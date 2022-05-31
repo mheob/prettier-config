@@ -1,0 +1,28 @@
+{
+  "name": "@mheob/prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/mheob/prettier-config",
+  "bugs": "https://github.com/mheob/prettier-config/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mheob/prettier-config.git"
+  },
+  "license": "MIT",
+  "author": "Alexander Böhm <tools@boehm.work>",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^3.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  },
+  "peerDependencies": {
+    "prettier": "^2.6.2"
+  },
+  "prettier": "./index.cjs"
+}
