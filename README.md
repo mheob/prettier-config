@@ -1,5 +1,7 @@
 # My personal [Prettier](https://prettier.io) config
 
+To make my configurations a bit easier I share my prettier config.
+
 ## Usage
 
 ### Install
