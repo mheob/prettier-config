@@ -1,4 +1,6 @@
-# My personal [Prettier](https://prettier.io) config
+# :warning: This repository is moved to [github.com/mheob/config](https://github.com/mheob/config)!
+
+~# My personal [Prettier](https://prettier.io) config~
 
 To make my configurations a bit easier I share my prettier config.
 
